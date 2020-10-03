@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+### I am Subin 🧑
 
-<!--
-**iamsubingyawali/iamsubingyawali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a Network Enginnering Student
+- 🌱 I’m currently learning Networking and Ethical Hacking along with Cloud, Python, C# and many more
+- ✍ I frequently blog at https://subidroid.com/
+- 😎 I am on almost all the social platforms with the username: **iamsubingyawali** 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I still like PHP as a programming language
 
-Here are some ideas to get you started:
+![Subin's github stats](https://github-readme-stats.vercel.app/api?username=iamsubingyawali&show_icons=true&count_private=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubingyawali&layout=compact&theme=dracula)
