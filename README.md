@@ -1,4 +1,4 @@
-### Hi there! 👋
+### नमस्कार! 🙏
 ### I am Subin 🧑
 
 - 🎓 I’m a Network Enginnering Student.
