@@ -1,7 +1,7 @@
 ### नमस्कार! 🙏
 ### I am Subin 🧑
 
-- 🎓 I’m a Network Enginnering Student.
+- 🎓 I’m a Network Engineering Student.
 - 🌱 I’m currently learning Networking and Ethical Hacking along with Cloud, Python, C# and many more.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
