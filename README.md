@@ -8,6 +8,10 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I still like PHP as a programming language.
 
-![Subin's github stats](https://github-readme-stats.vercel.app/api?username=iamsubingyawali&show_icons=true&count_private=true&theme=tokyonight)
+<img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=iamsubingyawali&show_icons=true&count_private=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubingyawali&layout=compact&theme=dracula)
+<img align="left" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsubingyawali&theme=synthwave" />
+
+<img align="left" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsubingyawali&layout=compact&theme=dracula" />
+
+<img align="left" width="600" src="https://profile-counter.glitch.me/{iamsubingyawali}/count.svg" />
