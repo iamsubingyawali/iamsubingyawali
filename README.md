@@ -2,7 +2,7 @@
 ### I am Subin 👋
 
 - 🎓 I’m a Network Engineering Student.
-- 🌱 I’m currently learning Networking and Ethical Hacking along with Cloud, Python, Swift and many more.
+- 🌱 I’m currently learning Swift along with Ethical Hacking, Cloud, Python, Kotlin and many more.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
