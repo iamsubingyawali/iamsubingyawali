@@ -39,7 +39,6 @@
 <a href="https://kaggle.com/iamsubingyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamsubingyawali/iamsubingyawali/main/images/kaggle.svg" alt="iamsubingyawali" height="30" width="40" /></a>
 <a href="https://medium.com/@iamsubingyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamsubingyawali/iamsubingyawali/main/images/medium.svg" alt="@iamsubingyawali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfs34Pp1C-RfF4mnrgIXPCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamsubingyawali/iamsubingyawali/main/images/youtube.svg" alt="subidroid" height="30" width="40" /></a>
-<a href="https://soundcloud.com/user-152025200" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamsubingyawali/iamsubingyawali/main/images/soundcloud.svg" alt="iamsubingyawali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamsubingyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/iamsubingyawali/iamsubingyawali/main/images/hackerrank.svg" alt="iamsubingyawali" height="30" width="40" /></a>
 </p>
 
