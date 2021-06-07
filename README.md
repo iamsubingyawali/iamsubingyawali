@@ -43,5 +43,5 @@
 </p>
 
 <h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="iamsubingyawali" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="iamsubingyawali" /></a></p><br><br>
 
