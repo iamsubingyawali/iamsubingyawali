@@ -6,7 +6,7 @@
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
-- ⚡ Fact: My lies are only limited to my jokes.
+- ⚡ Fun Fact: I think I'm so damn funny
 
 <h4 align="left">Statistics:</h4>
 
