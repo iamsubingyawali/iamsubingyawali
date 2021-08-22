@@ -1,8 +1,8 @@
 ### नमस्कार! 🙏
 ### I am Subin 👋
 
-- 🎓 I’m a Network Engineering Student.
-- 🌱 I’m currently learning Swift along with Ethical Hacking, Cloud, Python, Kotlin and many more.
+- 🎓 I’m an undergraduate Network Engineer.
+- 🌱 I’m currently learning iOS Development with Swift.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
