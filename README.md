@@ -2,7 +2,7 @@
 ### I am Subin 👋
 
 - 🎓 I’m an undergraduate Network Engineer.
-- 🌱 I’m currently learning iOS Development with Swift.
+- 🌱 I’m currently learning Telecommunications and Networking.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
