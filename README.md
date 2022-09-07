@@ -2,11 +2,11 @@
 ### I am Subin 👋
 
 - 🎓 I’m an undergraduate Network Engineer.
-- 🌱 I’m currently learning Backend Development and DevOps.
+- 🌱 I’m currently working with Laravel and DevOps and learning Vue.js.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun Fact: I think I'm so damn funny
+- ⚡ Fact: I am very forthright and sometimes not funny.
 
 <h4 align="left">Statistics:</h4>
 
