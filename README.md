@@ -2,7 +2,7 @@
 ### I am Subin 👋
 
 - 🎓 I’m an undergraduate Network Engineer.
-- 🌱 I’m currently working with Laravel and Vue.js and learning DevOps.
+- 🌱 I’m currently working as a Cloud and DevOps Engineer while occasionally coding in Laravel and Vue.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
