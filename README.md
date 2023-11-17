@@ -2,7 +2,8 @@
 ### I am Subin 👋
 
 - 🎓 I am a graduate computer science student with specialization in Network Engineering.
-- 🌱 I’m currently working as a Cloud and DevOps Engineer while occasionally coding in Laravel, Vue, and Python.
+- 🌱 I’m currently working as a Cloud and DevOps Engineer.
+- 👩‍💻 I occasionally code in Laravel, Vue, and Python.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
