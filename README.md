@@ -1,14 +1,16 @@
 ### नमस्कार! 🙏
 ### I am Subin 👋
 
-- 🎓 I’m an undergraduate Network Engineer.
-- 🌱 I’m currently working as a Cloud and DevOps Engineer while occasionally coding in Laravel and Vue.
+- 🎓 I am a graduate computer science student with specialization in Network Engineering.
+- 🌱 I’m currently working as a Cloud and DevOps Engineer while occasionally coding in Laravel, Vue, and Python.
 - ✍ I frequently blog at [SubiDroid](https://subidroid.com/).
 - 😎 I am on almost all the social platforms with the username: **iamsubingyawali**.
 - 😄 Pronouns: he/him/his
 - ⚡ Fact: I am very forthright and sometimes not funny.
 
 <h4 align="left">Statistics:</h4>
+
+<p align="left">Currently on a code-siesta mode on GitHub 😴</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsubingyawali&label=Profile%20views&color=F03C2E&style=flat" alt="iamsubingyawali" /> </p>
 
