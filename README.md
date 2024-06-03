@@ -25,5 +25,6 @@
 </p>
 
 <h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="iamsubingyawali" /></a></p><br><br>
+
+<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://github.com/iamsubingyawali/iamsubingyawali/assets/45819206/25ca72f2-faa4-4aee-93d1-f51f37ebde86" width="150" alt="iamsubingyawali" /></a></p><br><br>
 
