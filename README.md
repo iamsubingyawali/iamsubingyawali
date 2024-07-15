@@ -26,5 +26,6 @@
 
 <h4 align="left">Support:</h4>
 
-<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://github.com/iamsubingyawali/iamsubingyawali/assets/45819206/25ca72f2-faa4-4aee-93d1-f51f37ebde86" width="150" alt="iamsubingyawali" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/iamsubingyawali"> <img align="left" src="https://github.com/user-attachments/assets/f1c4cfff-3351-470e-ba81-dba9140e8b59" width="150" alt="iamsubingyawali" /></a></p><br><br>
+
 
