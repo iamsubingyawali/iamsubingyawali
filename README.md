@@ -1,12 +1,11 @@
 ### नमस्कार! 🙏
 ### I am Subin 👋
 
-- 🎓 Graduate computer science student with specialization in Network Engineering.
+- 🎓 MSc Computing | BEng Network Engineering graduate.
 - ☁️ Currently working as a Cloud and DevOps Engineer.
 - 💻 Crafting code with Laravel, Vue, Python, and a dash of everything else.
 - ✍ Sharing thoughts and experiences at **[SubiDroid](https://subidroid.com)**.
 - 🌐 Find me across the internet as **[iamsubingyawali](https://linktr.ee/iamsubingyawali)**.
-- 😊 Pronouns: he/him/his
 - 🌟 Fact: I am very forthright and sometimes not funny.
 
 ---
