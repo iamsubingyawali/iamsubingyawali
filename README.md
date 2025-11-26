@@ -13,10 +13,10 @@
 
 <h4 align="left">🚀 Statistics</h4>
 
-<p align="left">Currently on a code siesta mode here on GitHub 😴</p>
+<p align="left">GitLab and Bitbucket got custody, GitHub gets weekend visits 😴</p>
 
 <p align="left"><img width="500" src="https://nirzak-streak-stats.vercel.app?user=iamsubingyawali&theme=github-dark-blue&border_radius=5&card_width=500"/></p>
-<p align="left"><img width="500" src="https://github-readme-stats.vercel.app/api?username=iamsubingyawali&show_icons=true&count_private=true&theme=github_dark&custom_title=My%20Stats&hide_border=true%22"/></p>
+<p align="left"><img width="500" src="https://github-readme-stats-brown-six-29.vercel.app/api?username=iamsubingyawali&show_icons=true&count_private=true&theme=github_dark&custom_title=My%20Stats&hide_border=true%22"/></p>
 
 ---
 <h4 align="left">📫 Connect with Me</h4>
